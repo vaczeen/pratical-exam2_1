@@ -3,6 +3,17 @@ using namespace std;
 
 template <typename T>
 int countIf(T arr[],int length,T target){
+	
+	if(target==0 && target==8){
+		cout<<12/target;
+	}
+
+	
+
+
+
+	
+	
 	//Write your code here
 
 }
